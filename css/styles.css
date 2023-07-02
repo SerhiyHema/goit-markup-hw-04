@@ -352,6 +352,7 @@ button {
 .social-networks {
   width: 40px;
   height: 40px;
+  background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .social-soc {
@@ -364,7 +365,10 @@ button {
   justify-content: center;
 }
 
-.social-soc:hover,
+.social-soc:hover {
+background-color: #404bbf;
+}
+
 .social-soc:focus {
   background-color: #404bbf;
 }
