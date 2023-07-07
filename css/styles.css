@@ -541,6 +541,10 @@ button {
   color: #f4f4fd;
 }
 
+.footer-social-text {
+  margin-bottom: 16px;
+}
+
 .footer-social {
   font-weight: 500;
   font-size: 16px;
