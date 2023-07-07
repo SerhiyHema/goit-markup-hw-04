@@ -133,6 +133,10 @@ button {
   color: #404bbf;
 }
 
+.header-link.active {
+  color: #404bbf;
+}
+
 .header-link.active::after {
   content: '';
   position: absolute;
