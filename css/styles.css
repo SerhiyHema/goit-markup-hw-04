@@ -347,6 +347,7 @@ button {
 .social-list {
   display: flex;
   justify-content: center;
+  gap: 24px;
 }
 
 .social-networks {
@@ -373,7 +374,6 @@ button {
 
 .social-icon {
   fill: var(--accent-btbg);
-  gap: 24px;
 }
 
 .three-item {
